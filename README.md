@@ -18,3 +18,29 @@ No | Project | # of Reports | Size | Period
 # Bug Report Crawler
 
 All bug reports are downloaded by a [web crawler](https://github.com/hindbr/BugReportCrawler)
+
+# Citation
+You are kindly asked to acknowledge the usage of the dataset by citing the following two publications:
+```
+@inproceedings{xiao2020hindbr,
+  title={HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction},
+  author={Xiao, Guanping and Du, Xiaoting and Sui, Yulei and Yue, Tao},
+  booktitle={2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={195--206},
+  year={2020},
+  organization={IEEE}
+}
+```
+
+```
+@article{du2021deepsim,
+  title={DeepSIM: Deep Semantic Information-Based Automatic Mandelbug Classification}, 
+  author={Du, Xiaoting and Zheng, Zheng and Xiao, Guanping and Zhou, Zenghui and Trivedi, Kishor S.},
+  journal={IEEE Transactions on Reliability}, 
+  volume={71},
+  number={4},
+  pages={1540-1554},
+  year={2022},
+  publisher={IEEE}
+}
+```
